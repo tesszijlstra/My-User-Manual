@@ -95,7 +95,7 @@ env:
     info
   # The readable label(s) on the link to the region-page
   REGIONS_LABELS: >-
-    Information
+    Informatio
   # The ID of the Google Sheet(s) that contains the content for the region
   REGIONS_SHEET_IDS: >-
     1sTwI6jZUc--hvuUF-gTjtEKV3sCSVIigAkm40A7MlzU
