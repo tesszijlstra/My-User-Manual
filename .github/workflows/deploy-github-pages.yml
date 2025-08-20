@@ -66,7 +66,7 @@ env:
   #
   # An (optional) footer at the bottom of the screen, can be overwritten on sub-pages per-region by each region's sheet.
   TXT_MAIN_FOOTER: >-
-    **Helpful Information**  \n
+    **Welcome! - Thanks for taking the time to take a look :)**  \n
     \n
   #
   # Contents of the 'error-page'
@@ -92,10 +92,10 @@ env:
   #
   # The URL-part(s) to identify the region
   REGIONS: >-
-    info
+    user-manual
   # The readable label(s) on the link to the region-page
   REGIONS_LABELS: >-
-    Informatio
+    My user manual
   # The ID of the Google Sheet(s) that contains the content for the region
   REGIONS_SHEET_IDS: >-
     1sTwI6jZUc--hvuUF-gTjtEKV3sCSVIigAkm40A7MlzU
